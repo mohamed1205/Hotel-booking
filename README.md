@@ -28,4 +28,18 @@ Data analysis project pipeline :
      - Use two slicer, one to filter by country and other to filter by hotel type.
      - Make a table to see if there is increasig in using car slot or not.
 
-5-Summarize findings 
+5-Dashboard:
+
+
+![Untitled](https://user-images.githubusercontent.com/113065912/229653526-629674a5-f360-4781-9b65-6637f748c55f.png)
+
+
+
+
+6- Summarize findings:
+
+   1- There is increasing in revenue by year.
+
+   2- There is no need to increase parking slots as parking usage each year is just 3 % of its capacity.
+
+   3- there is a trend line between revenue and discount, if the revenue increase discount increase too, and vice-versa.
