@@ -15,7 +15,6 @@ Data analysis project pipeline :
 
 2-Develop SQL query:
 
-     - Join tables to get all table into one table.
      - use cte (Comma table extension) to union the data from 2017,2018 and 2019 togeter.
      - the use join and left join to join other tables.
 
