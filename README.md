@@ -2,6 +2,7 @@
 Develop a database using ssms(SQL server management studio) then using Power BI to Analyze and visualize the data.
 
 Questions that we need to solve:
+
      1) Is our hotel revenue growing by year.
      2) Should we increase our parking lot size.
      3) What trend can we see in the data.
